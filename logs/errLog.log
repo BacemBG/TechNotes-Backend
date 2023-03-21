@@ -1,0 +1,4 @@
+20230314	15:55:09	55669ac1-8b94-4cb3-aeef-391583062e75	SyntaxError: Unexpected token } in JSON at position 52	POST	/auth/	undefined
+20230321	13:25:35	1819e5a9-b3ff-4100-a1fe-780d087dafeb	Error: secretOrPrivateKey must have a value	POST	/auth	http://localhost:3000
+20230321	13:25:54	eaa4f261-35f2-4bf8-b70c-a0895e6293aa	Error: secretOrPrivateKey must have a value	POST	/auth	http://localhost:3000
+20230321	13:27:35	5aaae2c4-4bbb-4533-9055-991a970483c0	Error: secretOrPrivateKey must have a value	POST	/auth	http://localhost:3000
